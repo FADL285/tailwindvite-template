@@ -1,0 +1,31 @@
+{
+  "name": "tailwindcss-vitejs-template",
+  "description": "Tailwind CSS Template powered by vitejs",
+  "version": "0.0.0",
+  "keywords": [
+    "template",
+    "scaffold",
+    "tailwind",
+    "tailwindcss",
+    "tailwind-css",
+    "vite",
+    "vitejs",
+    "vite-template",
+    "vitejs-template",
+    "vite-tailwind"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.3",
+    "prettier-plugin-tailwindcss": "^0.2.2",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.1.0"
+  }
+}
