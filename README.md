@@ -1,6 +1,8 @@
-# TailwindVite Template
-
-A Tailwind CSS Template powered by vitejs. This project provides a starting point for building web applications with Tailwind CSS and vitejs. 
+<div align="center">
+<h1>TailwindVite Template</h1>
+<p>A Tailwind CSS Template powered by vitejs. This project provides a starting point for building web applications with Tailwind CSS and vitejs.</p>
+<img src="https://i.ibb.co/Yy68MT5/localhost-4173.png" alt="template preview" />
+</div>
 
 ## Features
 
